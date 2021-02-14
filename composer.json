@@ -1,0 +1,18 @@
+{
+    "name": "ghostlyit/hello-otus",
+    "description": "Say hello to Otus",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ghostlyit",
+            "email": "supermaximal23@gamil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ghostlyit\\HelloOtus\\": "src/"
+        }
+    }
+}
